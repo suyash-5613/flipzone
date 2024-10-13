@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flipzone/static/css/main.d38dd554.css",
+    "main.js": "/flipzone/static/js/main.ee61c140.js",
+    "static/js/453.bdfadd9f.chunk.js": "/flipzone/static/js/453.bdfadd9f.chunk.js",
+    "static/media/banner_kids.png": "/flipzone/static/media/banner_kids.fff815a581793a7380fb.png",
+    "static/media/banner_women.png": "/flipzone/static/media/banner_women.5a27fc4e4533e57e4676.png",
+    "static/media/banner_mens.png": "/flipzone/static/media/banner_mens.eed7197157196f319b17.png",
+    "static/media/hero_image.png": "/flipzone/static/media/hero_image.c34bb3704a8003d0198b.png",
+    "static/media/exclusive_image.png": "/flipzone/static/media/exclusive_image.e8118f2149d9cb916980.png",
+    "static/media/product_4.png": "/flipzone/static/media/product_4.ea0420ca9cec08d6df05.png",
+    "static/media/product_2.png": "/flipzone/static/media/product_2.d4e74f367160ec10fb34.png",
+    "static/media/product_1.png": "/flipzone/static/media/product_1.5a757396ee7ff5dd91c1.png",
+    "static/media/product_3.png": "/flipzone/static/media/product_3.be48863df18b272b8f59.png",
+    "static/media/hand_icon.png": "/flipzone/static/media/hand_icon.9c7487cecb600f30901b.png",
+    "index.html": "/flipzone/index.html",
+    "main.d38dd554.css.map": "/flipzone/static/css/main.d38dd554.css.map",
+    "main.ee61c140.js.map": "/flipzone/static/js/main.ee61c140.js.map",
+    "453.bdfadd9f.chunk.js.map": "/flipzone/static/js/453.bdfadd9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d38dd554.css",
+    "static/js/main.ee61c140.js"
+  ]
+}
