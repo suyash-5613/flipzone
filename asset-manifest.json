@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flipzone/static/css/main.d38dd554.css",
-    "main.js": "/flipzone/static/js/main.ee61c140.js",
+    "main.js": "/flipzone/static/js/main.688da80c.js",
     "static/js/453.bdfadd9f.chunk.js": "/flipzone/static/js/453.bdfadd9f.chunk.js",
     "static/media/banner_kids.png": "/flipzone/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/flipzone/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -15,11 +15,11 @@
     "static/media/hand_icon.png": "/flipzone/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/flipzone/index.html",
     "main.d38dd554.css.map": "/flipzone/static/css/main.d38dd554.css.map",
-    "main.ee61c140.js.map": "/flipzone/static/js/main.ee61c140.js.map",
+    "main.688da80c.js.map": "/flipzone/static/js/main.688da80c.js.map",
     "453.bdfadd9f.chunk.js.map": "/flipzone/static/js/453.bdfadd9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d38dd554.css",
-    "static/js/main.ee61c140.js"
+    "static/js/main.688da80c.js"
   ]
 }
